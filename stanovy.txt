@@ -1,29 +1,31 @@
 I. Všeobecná ustanovení
 
-    Underground, o.s. (dále jen sdružení) je dobrovolné, nezávislé a neziskové sdružení fyzických osob.
+    Underground, o.s. (dále jen sdružení) je dobrovolné, nezávislé, neziskové a nepolitické sdružení.
     Sdružení je právnickou osobou ve smyslu zákona č. 83/1990 Sb. o sdružování občanů v platném znění.
     Sídlem sdružení je Bayerova 8, 60200 Brno.
+    Sdružení púsobí na celém území České republiky.
     Cíle sdružení jsou:
         sdružovat zájemce o moderní technologie a návazné vědecké disciplíny a umělecké směry,
         umožňovat členům neformální spolupráci na společných technologických projektech, nezávislý vědecký výzkum a sebevzdělávání v podnětném prostředí,
         poskytovat otevřenou platformu pro výzkum, vývoj a implementaci technologií všeho druhu, s důrazem na otevřené licence a spolupráci v rámci celosvětové komunity,
         vzdělávat veřejnost a šířit technologickou osvětu publikační a přednáškovou činností, kurzy a workshopy,
         umožňovat spřáteleným skupinám a organizacím využívat zdroje a prostory sdružení k veřejným přednáškám a akcím odpovídajícím zaměření sdružení.
+        pracovat s dětmi a mládeží. 
 
 II. Členství
 
     Členem sdružení se může stát fyzická i právnická osoba (libovolného státu), která se chce podílet na uskutečňování cílů sdružení. Na přijetí do sdružení není nárok.
-    Zájemce o členství podává přihlášku radě sdružení. Rada svým rozhodnutím rozhodne o přijetí zájemce jako člena sdružení.
-    Členství zaniká:
-        na vlastní žádost člena doručenou radě sdružení,
-        úmrtím člena,
-        vyloučením člena ze sdružení,
-        se zánikem sdružení.
+    Zájemce o členství podává elektronickou přihlášku. Rada sdružení svým rozhodnutím rozhodne o přijetí zájemce jako člena sdružení.
+    Členství zaniká dnem:
+        doručerní vlastní žádosti člena radě sdružení,
+        úmrtí člena,
+        vyloučení člena ze sdružení,
+        zániku sdružení.
     Členství může být pozastaveno na vlastní žádost nebo rozhodnutím rady sdružení.
     Pozastavení a obnovení členství na vlastní žádost nepodléhá schválení a může trvat libovolně dlouho.
-    Rada sdružení může pozastavit členství jako výstrahu za porušení těchto stanov nebo vnitřních předpisů sdružení a nebo jako součást návrhu na vyloučení člena. V případě návrhu na vyloučení člena rada sdružení svolá valnou hromadu do 30 dnů. Pozastavení členství radou sdružení nesmí bez souhlasu valné hromady trvat déle než 30 dní.
+    Rada sdružení může pozastavit členství jako výstrahu za porušení těchto stanov nebo vnitřních předpisů sdružení a nebo jako součást návrhu na vyloučení člena. Pozastavení členství radou sdružení nesmí trvat déle než 30 dní.
     Rada sdružení nemůže pozastavit členství člena revizní komise. Návrh na pozastavení jeho členství dává rada sdružení valné hromadě, která o návrhu rozhodne.
-    Člen může být vyloučen ze sdružení pouze valnou hromadou.
+    Člen může být vyloučen ze sdružení pouze radou alebo valnou hromadou.
     Důvodem pro vyloučení je:
         neplacení členských příspěvků,
         hrubé porušení těchto stanov,
