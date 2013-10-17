@@ -1,0 +1,67 @@
+
+\documentclass{letter}
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+\usepackage{graphicx}
+
+\usepackage{fullpage}
+
+\begin{document}
+    
+\begin{center}
+{\Huge Žádost o přijetí}
+\end{center}
+
+{\Large Tímto formulářem žádám o přijetí do Underground, o.s.}
+\\*
+\\*
+\\*
+{\huge Osobní údaje}
+\\*
+\\*
+{\Large Příjmení:}
+\\*
+\\*
+{\Large Jméno:}
+\\*
+\\*
+\\*
+{\huge Kontaktní údaje}
+\\*\\*
+{\Large E-mail:}
+\\*\\*
+{\Large Telefon:}
+\\*\\*
+\\*
+{\Large Prohlašuji, že všechny zde uvedené údaje jsou pravdivé a úplné a také svým podpisem stvrzuji, že jsem se seznámil se stanovami sdružení, jež budu dodržovat.}
+\\*\\*
+\\*
+{\Large V ........................... dne ...........................}
+\\*\\*
+\\*
+{\Large podpis: .................................}
+\\*\\*
+\\*
+\\*
+{\huge Vyjádření rady}
+\\*\\*
+\\*
+{\Large Schváleno / odmítnuto radou sdružení}
+\\*\\*
+{\Large V ........................... dne ...........................}
+\\*
+\\*\\*
+{\Large Jméno: ........................ podpis: .............................}
+\\*
+\\*
+{\Large Jméno: ........................ podpis: .............................}
+\\*
+\\*
+{\Large Jméno: ........................ podpis: .............................}
+\\*
+\\*
+{\Large Jméno: ........................ podpis: .............................}
+\\*
+
+\end{document}
+
