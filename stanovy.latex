@@ -1,7 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% WARNING: this version may not be up to date - see stanovy.txt for authoritative version %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \documentclass[12pt]{article}
 \usepackage[czech]{babel}
 \usepackage[utf8]{inputenc}
@@ -19,18 +15,18 @@
 
 % i suck at latex and don't know how to make a heading
 \begin{center}
-{\LARGE\bf Stanovy sdružení}
+{\LARGE\bf Stanovy spolku}
 \end{center}
 
 \section{Všeobecná ustanovení}
 
-Underground, o.s. (dále jen sdružení) je dobrovolné, nezávislé a neziskové sdružení fyzických osob.
+Název spolku: Underground, z.s. (dále též spolek).
 
-Sdružení je právnickou osobou ve smyslu zákona č. 83/1990 Sb. o sdružování občanů v platném znění.
+Sídlo spolku: Čápkova 48, 602 00 Brno.
 
-Sídlem sdružení je Bayerova 8, 60200 Brno.
+Underground, z.s. je spolek ve smyslu ustanovení §214 a násl. zák. č.89/2012 Sb., a jako takový je právnickou osobou způsobilou k právnímu jednání.
 
-Cíle sdružení jsou:
+Underground, z.s. je samosprávná, dobrovolná, nepolitická a nezisková organizace založená za účelem naplňování společných zájmů, kterými jsou:
 \begin{itemize}
 \item sdružovat zájemce o moderní technologie a návazné vědecké disciplíny a umělecké směry,
 \item umožňovat členům neformální spolupráci na společných technologických projektech, nezávislý
@@ -39,167 +35,172 @@ Cíle sdružení jsou:
       důrazem na otevřené licence a spolupráci v rámci celosvětové komunity,
 \item vzdělávat veřejnost a šířit technologickou osvětu publikační a přednáškovou činností, kurzy a
       workshopy,
-\item umožňovat spřáteleným skupinám a organizacím využívat zdroje a prostory sdružení k veřejným
-      přednáškám a akcím odpovídajícím zaměření sdružení.
+\item umožňovat spřáteleným skupinám a organizacím využívat zdroje a prostory spolku k veřejným
+      přednáškám a akcím odpovídajícím zaměření spolku.
 \end{itemize}
+
+
+\section{Činnost spolku}
+Hlavní činnost spolku směřuje k ochraně a uspokojení společných
+zájmů a naplňování poslání, tak jak jsou stanoveny ve Všeobecných ustanoveních.
+
+K podpoře hlavní činnosti nevyvíjí spolek žádné činnosti vedlejší.
+
 
 \section{Členství}
 
-Členem sdružení se může stát fyzická i právnická osoba (libovolného státu), která se chce podílet na
-uskutečňování cílů sdružení. Na přijetí do sdružení není nárok.
+Členem spolku se může stát fyzická i právnická osoba (libovolného státu), která se chce podílet na uskutečňování cílů spolku. Na přijetí do spolku není nárok.
 
-Zájemce o členství podává přihlášku radě sdružení. Rada svým rozhodnutím rozhodne o přijetí zájemce
-jako člena sdružení.
+Zájemce o členství podává přihlášku radě spolku. Přihláška fyzické osoby musí obsahovat příjmení, jméno a vlastnoruční podpis žadatele. Členství vzniká dnem, kdy rada spolku rozhodne o přijetí žadatele na základě jeho písemné přihlášky.
 
 Členství zaniká:
 \begin{itemize}
-\item na vlastní žádost člena doručenou radě sdružení,
+\item na vlastní žádost člena doručenou radě spolku,
 \item úmrtím člena,
-\item vyloučením člena ze sdružení,
-\item se zánikem sdružení.
+\item vyloučením člena ze spolku,
+\item se zánikem spolku.
 \end{itemize}
 
-Členství může být pozastaveno na vlastní žádost nebo rozhodnutím rady sdružení.
+Členství může být pozastaveno na vlastní žádost nebo rozhodnutím rady spolku.
 
 Pozastavení a obnovení členství na vlastní žádost nepodléhá schválení a může trvat libovolně dlouho.
 
-Rada sdružení může pozastavit členství jako výstrahu za porušení těchto stanov nebo vnitřních
-předpisů sdružení a nebo jako součást návrhu na vyloučení člena. V případě návrhu na vyloučení člena
-rada sdružení svolá valnou hromadu do 30 dnů. Pozastavení členství radou sdružení nesmí bez souhlasu
+Rada spolku může pozastavit členství jako výstrahu za porušení těchto stanov nebo vnitřních
+předpisů spolku a nebo jako součást návrhu na vyloučení člena. V případě návrhu na vyloučení člena
+rada spolku svolá valnou hromadu do 30 dnů. Pozastavení členství radou spolku nesmí bez souhlasu
 valné hromady trvat déle než 30 dní.
 
-Rada sdružení nemůže pozastavit členství člena revizní komise. Návrh na pozastavení jeho členství
-dává rada sdružení valné hromadě, která o návrhu rozhodne.
+Rada spolku nemůže pozastavit členství člena revizní komise. Návrh na pozastavení jeho členství
+dává rada spolku valné hromadě, která o návrhu rozhodne.
 
-Člen může být vyloučen ze sdružení pouze valnou hromadou.
+Člen může být vyloučen ze spolku pouze valnou hromadou.
 
 Důvodem pro vyloučení je:
 \begin{itemize}
 \item neplacení členských příspěvků,
 \item hrubé porušení těchto stanov,
 \item opakovaná výstraha za porušení stanov,
-\item poškození dobré pověsti sdružení.
+\item poškození dobré pověsti spolku.
 \end{itemize}
 
 \section{Práva a povinnosti členů}
 
-Člen sdružení má právo:
+Člen spolku má právo:
 \begin{itemize}
 \item účastnit se valné hromady, hlasovat na ní a uplatňovat návrhy,
-\item volit a být volen do volených orgánů sdružení,
-\item využívat, za podmínek stanovených radou, prostředků a produktů sdružení,
+\item volit a být volen do volených orgánů spolku,
+\item využívat, za podmínek stanovených radou, prostředků a produktů spolku,
 \item dávat podnět ke kontrole revizní komisi.
 \end{itemize}
 
-Člen sdružení má povinnost:
+Člen spolku má povinnost:
 \begin{itemize}
-\item dodržovat stanovy sdružení a všechny vnitřní předpisy sdružení,
+\item dodržovat stanovy spolku a všechny vnitřní předpisy spolku,
 \item platit ve stanovené lhůtě členské příspěvky,
-\item oznámit změny údajů vedených v seznamu členů sdružení.
+\item oznámit změny údajů vedených v seznamu členů spolku.
 \end{itemize}
 
 Člen s pozastaveným členstvím:
 \begin{itemize}
 \item má právo účastnit se valné hromady, ale nemá právo na ní hlasovat nebo uplatňovat návrhy vyjma
-      návrhu na zrušení rozhodnutí rady o jeho pozastavení členství ve sdružení,
-\item nemá právo volit a být volen do volených orgánů sdružení,
+      návrhu na zrušení rozhodnutí rady o jeho pozastavení členství ve spolku,
+\item nemá právo volit a být volen do volených orgánů spolku,
 \item nemá povinnost platit členské příspěvky,
-\item nemá právo využívat prostředků a produktů sdružení, pokud rada nerozhodne jinak.
+\item nemá právo využívat prostředků a produktů spolku, pokud rada nerozhodne jinak.
 \end{itemize}
 
-\section{Orgány sdružení}
+\section{Orgány spolku}
 
-Orgány sdružení jsou Valná hromada, předseda sdružení (dále také jen “Předseda”), Rada sdružení,
-Revizní komise a Starci.
+Orgány spolku jsou Valná hromada, předseda spolku (dále také jen “Předseda”), Rada spolku a
+Revizní komise.
 
-Valná hromada volí do orgánů sdružení dle zásady tajné volby a při zachování demokratických
+Valná hromada volí do orgánů spolku dle zásady tajné volby a při zachování demokratických
 principů. Podrobný volební řád stanoví Valná hromada.
 
-Všechny orgány sdružení pořizují zápis ze svých schůzí. Pro tento účel jsou na schůzi zvoleni
+Všechny orgány spolku pořizují zápis ze svých schůzí. Pro tento účel jsou na schůzi zvoleni
 zapisovatel a ověřovatel, kteří zápis opatří svým podpisem. Zápisy se archivují a jsou na vyžádání
-přístupné všem členům sdružení, zejména prostřednictvím WWW stránek sdružení. O zveřejnění zápisu
+přístupné všem členům spolku, zejména prostřednictvím WWW stránek spolku. O zveřejnění zápisu
 veřejnosti rozhoduje Valná hromada.
 
-Není-li v těchto stanovách uvedeno jinak, přijímají orgány sdružení rozhodnutí nadpoloviční většinou
+Není-li v těchto stanovách uvedeno jinak, přijímají orgány spolku rozhodnutí nadpoloviční většinou
 svých členů.
 
-Člen sdružení zvolený do rady sdružení(případně na post předsedy) nemůže být zvolen do revizní
-komise sdružení.
+Člen spolku zvolený do rady spolku (případně na post předsedy) nemůže být zvolen do revizní
+komise spolku.
 
-Členství v orgánech sdružení zaniká společně se zánikem členství ve sdružení.
+Členství v orgánech spolku zaniká společně se zánikem členství ve spolku.
 
-Pozastavením členství ve sdružení je také pozastaven výkon funkce v orgánu sdružení. Pokud
-pozastavení členství trvá déle než 30 dní, pak členství v orgánech sdružení, s výjimkou Valné
+Pozastavením členství ve spolku je také pozastaven výkon funkce v orgánu spolku. Pokud
+pozastavení členství trvá déle než 30 dní, pak členství v orgánech spolku, s výjimkou Valné
 hromady, zaniká.
 
-\textbf{Valná hromada} je nejvyšším orgánem sdružení a je tvořena všemi členy sdružení.
+\textbf{Valná hromada} je nejvyšším orgánem spolku a je tvořena všemi členy spolku.
 \begin{itemize}
 \item Valnou hromadu svolává Předseda nejméně jednou ročně s přesahem maximálně dvou měsíců do
       následujícího roku. Předseda Valnou hromadu svolá kdykoliv o to požádá nejméně třetina členů
       a nebo Revizní komise. V takovém případě ji svolá do měsíce od doručení návrhu. Nemá-li kdo
-      Valnou hromadu svolat, může Valnou hromadu svolat libovolný člen sdružení.
+      Valnou hromadu svolat, může Valnou hromadu svolat libovolný člen spolku.
 \item Pozvánka na Valnou hromadu, obsahující informace o termínu, místu konání a navrhovaném
-      programu valné hromady musí být zveřejněna na WWW serveru sdružení a rozeslána všem členům
-      sdružení elektronickou nebo papírovou poštou nejpozději 14 dní před navrhovaným termínem
+      programu valné hromady musí být zveřejněna na WWW serveru spolku a rozeslána všem členům
+      spolku elektronickou nebo papírovou poštou nejpozději 14 dní před navrhovaným termínem
       konání.
-\item Pokud je na programu Valné hromady závažný bod jednání (volba orgánů sdružení, změna stanov
-      nebo zrušení sdružení), musí být tento bod uveden v navrhovaném programu Valné hromady.
+\item Pokud je na programu Valné hromady závažný bod jednání (volba orgánů spolku, změna stanov
+      nebo zrušení spolku), musí být tento bod uveden v navrhovaném programu Valné hromady.
       Takovýto bod není možné zařadit na program jednání dodatečně. Výjimkou je volba nové Rady
-      sdružení, pokud Rada sdružení, která vykonává funkci Předsedy, na Valné hromadě odstoupí. V
-      takovém případě Valná hromada zvolí novou radu sdružení.
+      spolku, pokud Rada spolku, která vykonává funkci Předsedy, na Valné hromadě odstoupí. V
+      takovém případě Valná hromada zvolí novou radu spolku.
 \item Valná hromada přijímá rozhodnutí nadpoloviční většinou přítomných členů. Pro odvolání
-      Předsedy, člena Rady sdružení nebo člena Revizní komise a pro změnu těchto stanov je potřeba
-      třípětinové většiny přítomných členů avšak nejméně třetiny všech členů sdružení.
-\item Body programu týkající se zrušení členství ve sdružení a nebo potvrzení pozastavení členství
-      ve sdružení budou zařazeny na program valné hromady před všemi ostatními body programu vyjma
+      Předsedy, člena Rady spolku nebo člena Revizní komise a pro změnu těchto stanov je potřeba
+      třípětinové většiny přítomných členů avšak nejméně třetiny všech členů spolku.
+\item Body programu týkající se zrušení členství ve spolku a nebo potvrzení pozastavení členství
+      ve spolku budou zařazeny na program valné hromady před všemi ostatními body programu vyjma
       organizačních (volba zapisovatele, ověřovatele, schválení programu a podobně).
 \item Rozhodnutí o zrušení pozastavení členství nabývá účinnosti okamžitě po projednání příslušného
       bodu programu.
-\item Schůzi Valné hromady řídí Předseda sdružení.
+\item Schůzi Valné hromady řídí Předseda spolku.
 \item Valná hromada je schopná se usnášet za přítomnosti alespoň třetiny svých členů.
 \end{itemize}
 
-\textbf{Předseda sdružení} je statutárním orgánem sdružení.
+\textbf{Předseda spolku} je statutárním orgánem spolku.
 \begin{itemize}
-\item Předsedu sdružení volí a odvolává Valná hromada.
-\item Funkční období předsedy je 1 rok. Předseda sdružení svolá Valnou hromadu za účelem volby
+\item Předsedu spolku volí a odvolává Valná hromada.
+\item Funkční období předsedy je 1 rok. Předseda spolku svolá Valnou hromadu za účelem volby
       Předsedy tak, aby volba proběhla nejdříve 30 dní před koncem jeho mandátu a nejpozději v
       poslední den jeho mandátu.
 \item Předseda rozhoduje v neodkladných věcech a provádí neodkladné úkony, pokud k tomu není
-      zapotřebí souhlas jiného orgánu sdružení.
-\item Předseda se při výkonu své funkce řídí rozhodnutím Valné hromady a Rady sdružení.
-\item Předseda sdružení může část svých pravomocí převést na radu sdružení.
-\item Předseda je oprávněn účastnit se zasedání všech orgánů sdružení. Pokud není jejich členem, má
+      zapotřebí souhlas jiného orgánu spolku.
+\item Předseda se při výkonu své funkce řídí rozhodnutím Valné hromady a Rady spolku.
+\item Předseda spolku může část svých pravomocí převést na radu spolku.
+\item Předseda je oprávněn účastnit se zasedání všech orgánů spolku. Pokud není jejich členem, má
       právo poradní.
-\item Nestanoví-li Valná hromada jinak, není Předseda bez souhlasu Rady sdružení oprávněn zavazovat
-      sdružení nad částku ve výši 5.000,- Kč.
-\item V případě, že se uvolní místo Předsedy, svolá Rada sdružení do jednoho měsíce Valnou hromadu
-      za účelem volby Předsedy. Do zvolení nového Předsedy přejímá jeho pravomoci Rada sdružení.
+\item Nestanoví-li Valná hromada jinak, není Předseda bez souhlasu Rady spolku oprávněn zavazovat
+      spolek nad částku ve výši 5.000,- Kč.
+\item V případě, že se uvolní místo Předsedy, svolá Rada spolku do jednoho měsíce Valnou hromadu
+      za účelem volby Předsedy. Do zvolení nového Předsedy přejímá jeho pravomoci Rada spolku.
       Stejného postupu se použije, pokud Předseda nebyl na Valné hromadě zvolen.
 \end{itemize}
 
-\textbf{Rada sdružení} je výkonný orgán sdružení.
+\textbf{Rada spolku} je výkonný orgán spolku.
 \begin{itemize}
-\item Rada sdružení má 4, 6 nebo 8 členů, z nichž jedním je Předseda sdružení a zbylé členy volí a
-      odvolává Valná hromada.
-\item Je-li zvolen nový Předseda sdružení, je volena i nová Rada sdružení.
-\item Schůzím Rady sdružení předsedá Předseda sdružení a má rozhodující hlas.
-\item Rada sdružení se řídí rozhodnutím Valné hromady.
-\item Rada sdružení spravuje majetek sdružení a vede jeho evidenci.
-\item Rada sdružení předkládá valné hromadě jednou za rok zprávu o činnosti sdružení.
-\item Je-li počet členů Rady sdružení jiný, než počet členů stanovený těmito stanovami, pak rada
-      kooptuje takový nejnižší počet členů sdružení, aby dosáhla počtu volených členů stanoveného
-      těmito stanovami. Rada sdružení smí kooptovat pouze ty členy, kteří by mohli být zvoleni do
-      Rady sdružení. Tito kooptovaní členové musí být potvrzeni nejbližší valnou hromadou.
+\item Rada spolku má 4, 6 nebo 8 členů, z nichž jedním je Předseda spolku a zbylé členy volí a odvolává Valná hromada.
+\item Je-li zvolen nový Předseda spolku, je volena i nová Rada spolku.
+\item Schůzím Rady spolku předsedá Předseda spolku a má rozhodující hlas.
+\item Rada spolku se řídí rozhodnutím Valné hromady.
+\item Rada spolku spravuje majetek spolku a vede jeho evidenci.
+\item Rada spolku předkládá valné hromadě jednou za rok zprávu o činnosti spolku.
+\item Je-li počet členů Rady spolku jiný, než počet členů stanovený těmito stanovami, pak rada
+      kooptuje takový nejnižší počet členů spolku, aby dosáhla počtu volených členů stanoveného
+      těmito stanovami. Rada spolku smí kooptovat pouze ty členy, kteří by mohli být zvoleni do
+      Rady spolku. Tito kooptovaní členové musí být potvrzeni nejbližší valnou hromadou.
 \end{itemize}
 
-\textbf{Revizní komise} je kontrolní orgán sdružení, který je odpovědný pouze valné hromadě.
+\textbf{Revizní komise} je kontrolní orgán spolku, který je odpovědný pouze valné hromadě.
 \begin{itemize}
 \item Revizní komise má nejméně dva členy.
 \item Revizní komise podává Valné hromadě jednou ročně zprávu o hospodaření.
-\item Revizní komise šetří stížnosti členů na postup Předsedy sdružení a Rady sdružení. Zprávu o
-      výsledku šetření předkládá Revizní komise valné hromadě sdružení.
-\item Revizní komise závazně vykládá stanovy a vnitřní předpisy sdružení pro účely sdružení.
+\item Revizní komise šetří stížnosti členů na postup Předsedy spolku a Rady spolku. Zprávu o
+      výsledku šetření předkládá Revizní komise valné hromadě spolku.
+\item Revizní komise závazně vykládá stanovy a vnitřní předpisy spolku pro účely spolku.
 \item Návrh na změnu stanov musí být předložen Revizní komisi nejméně 14 dní před konáním Valné
       hromady, na jejímž programu má tato změna stanov být projednána. Revizní komise vypracuje v
       součinnosti s autorem původního návrhu návrh pozměněných stanov, který předloží této Valné
@@ -208,88 +209,50 @@ hromady, zaniká.
 \item Revizní komise má přístup ke všem dokladům a dokumentům nutným k provádění její činnosti.
 \end{itemize}
 
-\textbf{Starci} jsou mimořádný kontrolní orgán sdružení, který zabraňuje odklonu od základních idejí
-sdružení. Člen Starců se nazývá stařec.
-\begin{itemize}
-\item Starci přijímají rozhodnutí jednomyslně.
-\item Stařec je člen sdružení, který je uveden v příloze k těmto stanovám, pokud členství ve
-      Starcích dříve nezaniklo. O znovupřijetí mezi Starce rozhodují starci.
-\item Starci mají právo svým rozhodnutím, ale nejméně počtem tří hlasů, zrušit nejpozději do patnácti dnů:
-      \begin{itemize}
-      \item rozhodnutí Valné hromady o změně stanov, včetně jejich přílohy,
-      \item závazky jménem sdružení,
-      \item rozhodnutí o vyloučení člena ze sdružení,
-      \item rozhodnutí o odvolání Předsedy, člena Rady sdružení a nebo člena Revizní komise,
-      \item rozhodnutí o nakládání s majetkem,
-      \item rozhodnutí o zániku sdružení.
-      \end{itemize}
-\item Orgán, který má vydat rozhodnutí, které mohou Starci svým rozhodnutím zrušit, může s návrhem
-      tohoto rozhodnutí Starce seznámit v předstihu. Lhůta na zrušení rozhodnutí pak trvá od
-      okamžiku seznámení Starců s tímto návrhem, pokud bylo rozhodnutí přijato ve stejném znění o
-      kterém Starci jednali.
-\item Pokud mají Starci méně než tři členy, pak jsou oprávněni zrušit pouze změnu stanov týkající se
-      změny pravomocí a fungování Starců, změny přílohy stanov a rozhodnutí o vyloučení Starce ze
-      sdružení.
-\item Pokud Starci zruší odvolání člena orgánu sdružení, a mezitím došlo k volbě jiného člena, který
-      původního v orgánu nahradí, je tato volba neplatná.
-\item Členství ve Starcích je možné pozastavit na základě písemné žádosti příslušného starce. Pokud
-      je stařec dlouhodobě neschopen vykonávat své povinnosti v rámci orgánu a vzhledem k
-      okolnostem není schopen provést pozastavení sám, rozhodnou o pozastavení Starci.
-\item Z rozhodování Starců přímo se týkajícího starce je tento stařec vyloučen. V takovém případě se
-      pojmem “jednomyslné rozhodnutí Starců” rozumí jednomyslné rozhodnutí zbývajících starců.
-\item V případě, že Valná hromada vydá rozhodnutí o zrušení členství více starců, rozhodují Starci o
-      zrušení vyloučení člena každého svého člena zvlášť.
-\end{itemize}
-
 \section{Zásady hospodaření}
 
-Sdružení hospodaří se svým majetkem, jehož zdroji jsou zejména:
+Spolek hospodaří se svým majetkem, jehož zdroji jsou zejména:
 \begin{itemize}
 \item členské příspěvky,
 \item dary a jiná plnění fyzických a právnických osob
 \end{itemize}
-Tyto zdroje jsou využívány výhradně v souladu s předmětem činnosti sdružení a k zajištění jeho
+Tyto zdroje jsou využívány výhradně v souladu s předmětem činnosti spolku a k zajištění jeho
 provozu.
 
-Cílem činnosti sdružení není dosažení zisku. Přebytek hospodaření se použije v následujícím období
-podle rozpočtu sdružení.
+Cílem činnosti spolku není dosažení zisku. Přebytek hospodaření se použije v následujícím období podle rozpočtu spolku.
 
-Rozpočet sdružení vypracovává jednou ročně Rada sdružení a dává ho ke schválení Valné hromadě.
-Rozpočet je vnitřním předpisem sdružení.
+Rozpočet spolku vypracovává jednou ročně Rada spolku a dává ho ke schválení Valné hromadě.
+Rozpočet je vnitřním předpisem spolku.
 
-Účetní závěrka za minulý kalendářní rok musí být projednána Radou sdružení nejpozději do konce února
+Účetní závěrka za minulý kalendářní rok musí být projednána Radou spolku nejpozději do konce února
 následujícího roku.
 
-Za finanční hospodaření sdružení zodpovídá Rada sdružení, dispoziční právo k účtu má Předseda
-sdružení, který podle svého uvážení může toto dispoziční právo udělit i dalším členům Rady sdružení
-na dobu určitou, nejdéle však do konce svého funkčního období.
+Za finanční hospodaření spolku zodpovídá Rada spolku, dispoziční právo k účtu má Předseda
+spolku, který podle svého uvážení může toto dispoziční právo udělit i dalším členům Rady spolku na dobu určitou, nejdéle však do konce svého funkčního období.
 
-Ve věcech finančních zodpovídá Radě sdružení za využívání bankovních účtů předseda sdružení, a to
-vždy v příslušném funkčním období. Rada sdružení zpravidla pověřuje svého člena (například
+Ve věcech finančních zodpovídá Radě spolku za využívání bankovních účtů předseda spolku, a to
+vždy v příslušném funkčním období. Rada spolku zpravidla pověřuje svého člena (například
 hospodáře), aby pomáhal Předsedovi s hospodářskou agendou a případně s řízením práce kvalifikované
-externí síly, pověřené péčí o účetní doklady sdružení.
+externí síly, pověřené péčí o účetní doklady spolku.
 
 Kontrolu plnění rozpočtu provádí Revizní komise.
 
-Pravidla pro přístup k bankovnímu účtu sdružení stanoví vnitřním předpisem Valná hromada.
+Pravidla pro přístup k bankovnímu účtu spolku stanoví vnitřním předpisem Valná hromada.
 
-\section{Zánik sdružení}
+\section{Zánik spolku}
 
-Sdružení zaniká rozhodnutím Valné hromady, vysloví-li se pro tento návrh alespoň 4/5 všech řádných
-členů.
+Spolek zaniká rozhodnutím Valné hromady, vysloví-li se pro tento návrh alespoň 4/5 všech řádných členů.
 
-Valná hromada, která rozhodla o zániku sdružení, rozhodne také o majetkovém vypořádání. Případný
+Valná hromada, která rozhodla o zániku spolku, rozhodne také o majetkovém vypořádání. Případný
 kladný zůstatek majetku bude bezúplatně převeden na jinou právnickou osobu neziskového charakteru,
-jejíž cíle jsou sdružení blízké.
+jejíž cíle jsou spolku blízké.
 
 \section{Závěrečná ustanovení}
 
-První radou sdružení jsou členové přípravného výboru. Tato rada sdružení má pravomoce předsedy dle
-ustanovení o uvolnění místa předsedy.
+První radou spolku jsou členové přípravného výboru. Tato rada spolku má pravomoce předsedy dle ustanovení o uvolnění místa předsedy.
 
-Rada sdružení svolá ustavující valnou hromadu nejpozději do 30 dnů od registrace sdružení. Součástí
-programu této valné hromady bude volba Předsedy, Rady sdružení a Revizní komise.
+Rada spolku svolá ustavující valnou hromadu nejpozději do 30 dnů od registrace spolku. Součástí programu této valné hromady bude volba Předsedy, Rady spolku a Revizní komise.
 
-Tyto stanovy nabývají účinnosti dnem registrace sdružení.
+Tyto stanovy nabývají účinnosti dnem registrace spolku.
 
 \end{document}
