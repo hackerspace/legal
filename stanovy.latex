@@ -1,7 +1,6 @@
 \documentclass[12pt]{article}
 \usepackage[czech]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage{a4wide}
 
 % roman numerals for section numbers
 \renewcommand{\thesection}{\Roman{section}} 
@@ -20,13 +19,13 @@
 
 \section{Všeobecná ustanovení}
 
-Název spolku: Underground, z.s. (dále též spolek).
+Název spolku: base48, z.s. (dále též spolek).
 
-Sídlo spolku: Čápkova 48, 602 00 Brno.
+Sídlo spolku: Čápkova 543/48, 602 00 Brno.
 
-Underground, z.s. je spolek ve smyslu ustanovení §214 a násl. zák. č.89/2012 Sb., a jako takový je právnickou osobou způsobilou k právnímu jednání.
+base48, z.s. je spolek ve smyslu ustanovení §214 a násl. zák. č.89/2012 Sb., a jako takový je právnickou osobou způsobilou k právnímu jednání.
 
-Underground, z.s. je samosprávná, dobrovolná, nepolitická a nezisková organizace založená za účelem naplňování společných zájmů, kterými jsou:
+base48, z.s. je samosprávná, dobrovolná, nepolitická a nezisková organizace založená za účelem naplňování společných zájmů, kterými jsou:
 \begin{itemize}
 \item sdružovat zájemce o moderní technologie a návazné vědecké disciplíny a umělecké směry,
 \item umožňovat členům neformální spolupráci na společných technologických projektech, nezávislý
@@ -70,9 +69,6 @@ předpisů spolku a nebo jako součást návrhu na vyloučení člena. V přípa
 rada spolku svolá valnou hromadu do 30 dnů. Pozastavení členství radou spolku nesmí bez souhlasu
 valné hromady trvat déle než 30 dní.
 
-Rada spolku nemůže pozastavit členství člena revizní komise. Návrh na pozastavení jeho členství
-dává rada spolku valné hromadě, která o návrhu rozhodne.
-
 Člen může být vyloučen ze spolku pouze valnou hromadou.
 
 Důvodem pro vyloučení je:
@@ -90,7 +86,6 @@ Důvodem pro vyloučení je:
 \item účastnit se valné hromady, hlasovat na ní a uplatňovat návrhy,
 \item volit a být volen do volených orgánů spolku,
 \item využívat, za podmínek stanovených radou, prostředků a produktů spolku,
-\item dávat podnět ke kontrole revizní komisi.
 \end{itemize}
 
 Člen spolku má povinnost:
@@ -111,8 +106,7 @@ Důvodem pro vyloučení je:
 
 \section{Orgány spolku}
 
-Orgány spolku jsou Valná hromada, předseda spolku (dále také jen “Předseda”), Rada spolku a
-Revizní komise.
+Orgány spolku jsou Valná hromada, předseda spolku (dále také jen “Předseda”) a Rada spolku.
 
 Valná hromada volí do orgánů spolku dle zásady tajné volby a při zachování demokratických
 principů. Podrobný volební řád stanoví Valná hromada.
@@ -125,9 +119,6 @@ veřejnosti rozhoduje Valná hromada.
 Není-li v těchto stanovách uvedeno jinak, přijímají orgány spolku rozhodnutí nadpoloviční většinou
 svých členů.
 
-Člen spolku zvolený do rady spolku (případně na post předsedy) nemůže být zvolen do revizní
-komise spolku.
-
 Členství v orgánech spolku zaniká společně se zánikem členství ve spolku.
 
 Pozastavením členství ve spolku je také pozastaven výkon funkce v orgánu spolku. Pokud
@@ -137,8 +128,7 @@ hromady, zaniká.
 \textbf{Valná hromada} je nejvyšším orgánem spolku a je tvořena všemi členy spolku.
 \begin{itemize}
 \item Valnou hromadu svolává Předseda nejméně jednou ročně s přesahem maximálně dvou měsíců do
-      následujícího roku. Předseda Valnou hromadu svolá kdykoliv o to požádá nejméně třetina členů
-      a nebo Revizní komise. V takovém případě ji svolá do měsíce od doručení návrhu. Nemá-li kdo
+      následujícího roku. Předseda Valnou hromadu svolá kdykoliv o to požádá nejméně třetina členů. V takovém případě ji svolá do měsíce od doručení návrhu. Nemá-li kdo
       Valnou hromadu svolat, může Valnou hromadu svolat libovolný člen spolku.
 \item Pozvánka na Valnou hromadu, obsahující informace o termínu, místu konání a navrhovaném
       programu valné hromady musí být zveřejněna na WWW serveru spolku a rozeslána všem členům
@@ -150,7 +140,7 @@ hromady, zaniká.
       spolku, pokud Rada spolku, která vykonává funkci Předsedy, na Valné hromadě odstoupí. V
       takovém případě Valná hromada zvolí novou radu spolku.
 \item Valná hromada přijímá rozhodnutí nadpoloviční většinou přítomných členů. Pro odvolání
-      Předsedy, člena Rady spolku nebo člena Revizní komise a pro změnu těchto stanov je potřeba
+      Předsedy, člena Rady spolku a pro změnu těchto stanov je potřeba
       třípětinové většiny přítomných členů avšak nejméně třetiny všech členů spolku.
 \item Body programu týkající se zrušení členství ve spolku a nebo potvrzení pozastavení členství
       ve spolku budou zařazeny na program valné hromady před všemi ostatními body programu vyjma
@@ -194,21 +184,6 @@ hromady, zaniká.
       Rady spolku. Tito kooptovaní členové musí být potvrzeni nejbližší valnou hromadou.
 \end{itemize}
 
-\textbf{Revizní komise} je kontrolní orgán spolku, který je odpovědný pouze valné hromadě.
-\begin{itemize}
-\item Revizní komise má nejméně dva členy.
-\item Revizní komise podává Valné hromadě jednou ročně zprávu o hospodaření.
-\item Revizní komise šetří stížnosti členů na postup Předsedy spolku a Rady spolku. Zprávu o
-      výsledku šetření předkládá Revizní komise valné hromadě spolku.
-\item Revizní komise závazně vykládá stanovy a vnitřní předpisy spolku pro účely spolku.
-\item Návrh na změnu stanov musí být předložen Revizní komisi nejméně 14 dní před konáním Valné
-      hromady, na jejímž programu má tato změna stanov být projednána. Revizní komise vypracuje v
-      součinnosti s autorem původního návrhu návrh pozměněných stanov, který předloží této Valné
-      hromadě ke schválení. Autor původního návrhu může Valné hromadě předložit svůj původní návrh
-      na změnu stanov.
-\item Revizní komise má přístup ke všem dokladům a dokumentům nutným k provádění její činnosti.
-\end{itemize}
-
 \section{Zásady hospodaření}
 
 Spolek hospodaří se svým majetkem, jehož zdroji jsou zejména:
@@ -235,8 +210,6 @@ vždy v příslušném funkčním období. Rada spolku zpravidla pověřuje své
 hospodáře), aby pomáhal Předsedovi s hospodářskou agendou a případně s řízením práce kvalifikované
 externí síly, pověřené péčí o účetní doklady spolku.
 
-Kontrolu plnění rozpočtu provádí Revizní komise.
-
 Pravidla pro přístup k bankovnímu účtu spolku stanoví vnitřním předpisem Valná hromada.
 
 \section{Zánik spolku}
@@ -251,7 +224,7 @@ jejíž cíle jsou spolku blízké.
 
 První radou spolku jsou členové přípravného výboru. Tato rada spolku má pravomoce předsedy dle ustanovení o uvolnění místa předsedy.
 
-Rada spolku svolá ustavující valnou hromadu nejpozději do 30 dnů od registrace spolku. Součástí programu této valné hromady bude volba Předsedy, Rady spolku a Revizní komise.
+Rada spolku svolá ustavující valnou hromadu nejpozději do 30 dnů od registrace spolku. Součástí programu této valné hromady bude volba Předsedy, Rady spolku.
 
 Tyto stanovy nabývají účinnosti dnem registrace spolku.
 
