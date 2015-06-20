@@ -1,0 +1,45 @@
+
+\documentclass{letter}
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+\usepackage{graphicx}
+
+\usepackage{fullpage}
+
+\begin{document}
+    
+\begin{center}
+{\Huge Žádost o ukončení členství}
+\end{center}
+
+{\Large Tímto formulářem žádám o ukončení členství v Underground, o.s.}
+\\*
+\\*
+\\*
+{\Large Příjmení:}
+\\*
+\\*
+{\Large Jméno:}
+\\*\\*
+\\*
+{\Large V ........................... dne ...........................}
+\\*\\*
+\\*
+{\Large podpis: .................................}
+\\*
+\\*
+\\*
+\\*
+\\*
+\\*
+\\*
+\\*
+\\*
+{\Large Přijal člen rady}
+\\*\\*
+{\Large Jméno ........................... dne ...........................}
+\\*
+
+
+\end{document}
+
