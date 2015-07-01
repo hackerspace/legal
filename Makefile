@@ -1,4 +1,4 @@
-files = stanovy.pdf
+files = stanovy.pdf zadost_o_clenstvi.pdf zadost_o_ukonceni.pdf zadost_o_preruseni.pdf
 
 all: $(files)
 	#xpdf -remote latex -reload
