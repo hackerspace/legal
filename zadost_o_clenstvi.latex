@@ -1,9 +1,7 @@
-
 \documentclass{letter}
 \usepackage[utf8]{inputenc}
 \usepackage[czech]{babel}
 \usepackage{graphicx}
-
 \usepackage{fullpage}
 
 \begin{document}
@@ -64,4 +62,3 @@
 \\*
 
 \end{document}
-
